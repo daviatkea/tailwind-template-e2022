@@ -85,7 +85,7 @@ Dev-serveren kører indtil du stopper den manuelt eller lukker VS Code. Du stopp
 
 ## 5. Brug Tailwind
 
-Begynd at bruge Tailwinds hjælpeklasser til at style dit indhold i `index.html`.
+Begynd at bruge Tailwinds hjælpeklasser til at style dit indhold i `index.html` i `/src`.
 
 Navigér derefter til [Tailwinds dokumentation](https://tailwindcss.com/docs/), for at se alle hjælpeklasser samt øvrige opsætningsmuligheder.
 
