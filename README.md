@@ -60,7 +60,7 @@ eller
 1. Klik på "Use this template" (grøn knap)
 2. Giv dit projekt et navn
 3. Vælg "Public" efterfulgt af "Create repository from template".
-4. I dit nyoprettede repository kan du klone det ned lokalt via VS Code.
+4. I dit nyoprettede repository kan du nu klone som normalt via VS Code.
 
 </details>
 
