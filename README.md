@@ -35,7 +35,7 @@ Vælg enten `macOS` eller `Windows`
 ## 2. Download respository
 
 <details>
-    <summary>A — Via terminalen (anbefalet)</summary>
+    <summary><h3>A — Via terminalen (anbefalet)</h3></summary>
 
 1. Opret og åben en ny mappe i VS Code.
 2. Åbn terminalen via **View** (se evt. nedenfor), og
@@ -53,7 +53,7 @@ Find terminal-vinduet her:
 </details>
 
 <details>
-    <summary>B — Via GitHub</summary>
+    <summary><h3>B — Via GitHub</h3></summary>
 
 1. Klik på "Use this template" (grøn knap)
 2. Giv dit projekt et navn
