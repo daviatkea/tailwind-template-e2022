@@ -46,7 +46,7 @@ npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
 ```
 
 ![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
-Åben terminal
+'View' -> 'Terminal'
 
 </details>
 
