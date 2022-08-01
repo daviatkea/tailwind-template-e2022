@@ -37,7 +37,9 @@ Vælg enten `macOS` eller `Windows`
 <details>
     <summary>A — Via terminalen (anbefalet)</summary>
 
-Opret og åben en ny mappe i VS Code. Åbn terminalen via **View** (se evt. nedenfor), og kopier følgende kode ind i terminal-vinduet og tryk _Enter_.
+1. Opret og åben en ny mappe i VS Code.
+2. Åbn terminalen via **View** (se evt. nedenfor), og
+3. kopier følgende kode ind i terminal-vinduet og tryk _Enter_:
 
 ```
 npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
@@ -53,9 +55,10 @@ Find terminal-vinduet her:
 <details>
     <summary>B — Via GitHub</summary>
 
-    Klik på "Use this template" (grøn knap) og vælg et navn til dit projekt. Vælg "Public" efterfulgt af "Create repository from template".
-
-    Når dit repository er oprettet kan du klone det ned via VS Code.
+1. Klik på "Use this template" (grøn knap)
+2. Giv dit projekt et navn
+3. Vælg "Public" efterfulgt af "Create repository from template".
+4. I dit nyoprettede repository kan du klone det ned lokalt via VS Code.
 
 </details>
 
