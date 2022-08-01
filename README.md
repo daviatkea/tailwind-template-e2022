@@ -45,8 +45,6 @@ Vælg enten `macOS` eller `Windows`
 npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
 ```
 
-Find terminal-vinduet her:
-
 ![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
 Åben terminal
 
