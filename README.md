@@ -52,6 +52,8 @@ Find terminal-vinduet her:
 
 </details>
 
+eller
+
 <details>
     <summary><h3>B — Via GitHub</h3></summary>
 
