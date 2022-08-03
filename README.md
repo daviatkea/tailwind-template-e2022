@@ -34,7 +34,7 @@ Vælg enten `macOS` eller `Windows`
 
 ## 2. Download respository
 
-<details>
+<details style="background: red">
     <summary><h3>Mulighed A — via terminalen (anbefalet)</h3></summary>
 
 1. Opret og åben en ny mappe (projektnavn) i VS Code.
