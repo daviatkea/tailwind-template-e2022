@@ -9,7 +9,7 @@
 **Trin:**
 
 1. Installer Node
-2. Download respository
+2. Download respository (to muligheder)
 3. Sæt projektet op
 4. Kør dev-server via terminalen
 5. Brug Tailwind
@@ -35,7 +35,7 @@ Vælg enten `macOS` eller `Windows`
 ## 2. Download respository
 
 <details>
-    <summary><h3>A — Via terminalen (anbefalet)</h3></summary>
+    <summary><h3>Mulighed A — Via terminalen (anbefalet)</h3></summary>
 
 1. Opret og åben en ny mappe i VS Code.
 2. Åbn terminalen via **View** (se evt. nedenfor), og
@@ -51,10 +51,10 @@ npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
 
 </details>
 
-eller
+<small>eller</small>
 
 <details>
-    <summary><h3>B — Via GitHub</h3></summary>
+    <summary><h3>Mulighed B — Via GitHub</h3></summary>
 
 1. Klik på "Use this template" (grøn knap)
 2. Giv dit projekt et navn
