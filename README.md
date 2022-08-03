@@ -38,7 +38,7 @@ Vælg enten `macOS` eller `Windows`
     <summary><h3>Mulighed A — Via terminalen (anbefalet)</h3></summary>
 
 1. Opret og åben en ny mappe (projektnavn) i VS Code.
-2. Åbn terminalen via **View** (se evt. nedenfor), og
+2. Åbn terminalen via **View** (se evt. nedenfor)
 3. Kopier følgende kode ind i terminal-vinduet og tryk _Enter_:
    - Indtast "y" og tryk _Enter_, når der står `Ok to proceed? (y)`
 
