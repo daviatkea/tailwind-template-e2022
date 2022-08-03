@@ -35,7 +35,7 @@ Vælg enten `macOS` eller `Windows`
 ## 2. Download respository
 
 <details>
-    <summary><h3>Mulighed A — Via terminalen (anbefalet)</h3></summary>
+    <summary><h3>Mulighed A — via terminalen (anbefalet)</h3></summary>
 
 1. Opret og åben en ny mappe (projektnavn) i VS Code.
 2. Åbn terminalen via **View** (se evt. nedenfor)
@@ -54,7 +54,7 @@ npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
 <small>eller</small>
 
 <details>
-    <summary><h3>Mulighed B — Via GitHub</h3></summary>
+    <summary><h3>Mulighed B — via GitHub</h3></summary>
 
 1. Klik på "Use this template" (grøn knap)
 2. Giv dit projekt et navn
