@@ -46,7 +46,7 @@ Vælg enten `macOS` eller `Windows`
 npx degit https://github.com/daviatkea/tailwind-template-e2022.git .
 ```
 
-💡 **OBS!** — Hvis du ser fejlen "destination directory is not empty, aborting." i terminalen kan du prøve med følgende kommando:
+💡 **OBS!** — Hvis du ser fejlen "destination directory is not empty, aborting" i terminalen kan du prøve med følgende kommando:
 
 ```
 npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
