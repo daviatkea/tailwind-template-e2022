@@ -34,13 +34,19 @@ Vælg enten `macOS` eller `Windows`
 
 ## 2. Download respository
 
-<details style="background: red">
+<details>
     <summary><h3>Mulighed A — via terminalen (anbefalet)</h3></summary>
 
 1. Opret og åben en ny mappe (projektnavn) i VS Code.
 2. Åbn terminalen via **View** (se evt. nedenfor)
 3. Kopier følgende kode ind i terminal-vinduet og tryk _Enter_:
    - Indtast "y" og tryk _Enter_, når der står `Ok to proceed? (y)`
+
+```
+npx degit https://github.com/daviatkea/tailwind-template-e2022.git .
+```
+
+💡 **OBS!** — Hvis du ser fejlen "destination directory is not empty, aborting." i terminalen kan du prøve med følgende kommando:
 
 ```
 npx degit https://github.com/daviatkea/tailwind-template-e2022.git . --force
