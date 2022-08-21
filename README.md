@@ -39,7 +39,7 @@ Vælg enten `macOS` eller `Windows`
 
 1. Opret og åben en ny mappe (projektnavn) i VS Code.
 2. Åbn terminalen via **View** (se evt. nedenfor)
-3. Kopier følgende kode ind i terminal-vinduet og tryk _Enter_:
+3. Kopier følgende kode ind i terminal-vinduet (husk at få det sidste punktum med!) og tryk _Enter_:
    - Indtast "y" og tryk _Enter_, når der står `Ok to proceed? (y)`
 
 ```
