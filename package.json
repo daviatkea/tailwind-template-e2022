@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build --emptyOutDir",
     "preview": "vite preview",
-    "publish": "rm -rf dist && npm run build && gh-pages -d dist"
+    "publish": "npm run build && gh-pages -d dist"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
